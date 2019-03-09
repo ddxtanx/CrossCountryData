@@ -1,0 +1,7 @@
+__pycache__
+runnerData
+conf.json
+nohup.out
+.venv
+Pipfile
+Pipfile.lock
